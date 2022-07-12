@@ -52,7 +52,7 @@ def notice():
 	runtxt("\n\033[0;91m🧞‍♀️YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m 🔇 SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
 	runtxt("\033[0;92m ADMIN🧞‍♀️ WHATSAPP >> +8801314629049")
-	subprocess.check_output(["am", "start", "https://m.me/Alikhankijan"])
+	subprocess.check_output(["am", "start", "https://www.facebook.com/profile.php?id=100066505095550"])
 
 def irfan():
 	
@@ -111,7 +111,7 @@ class Main:
 \033[1;97m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING  : DONT TRY TO COPPY MY SCRYPT
 \033[1;90m═══════════════════════════════════════════════════════════
     """)
-		print("%s [%s•%s] %sTOOL NAME : %sMAAHIR❌ PROO CLONER❌"%(G,R,G,B,G))
+		print("%s [%s•%s] %sTOOL NAME : %sMAHIR❌ PROO CLONER❌"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s2.0"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
