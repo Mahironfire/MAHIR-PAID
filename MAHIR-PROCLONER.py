@@ -131,7 +131,7 @@ class Main:
 			Main()
 		elif hoga in ["1", "01"]:
 			if basesplit in plr:
-				self.old_11()
+				self.old_11()am start https://wa.me/+8801930610985
 			else: 
 				notice()
 				exit()
