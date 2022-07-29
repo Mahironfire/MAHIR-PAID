@@ -132,9 +132,7 @@ class Main:
 		elif hoga in ["1", "01"]:
                         if basesplit in plr:
 			self.old_11()
-			subprocess.check_output(["am", "start", "https://www.facebook.com/profile.php?id=100066505095550"])
-           
-		        else: 
+			else: 
 				notice()
 				exit()
 		elif hoga in ["2", "02"]:
